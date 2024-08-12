@@ -20,7 +20,7 @@ export default {
       },
       colors: {
         primary: "#ECEEFF",
-        "coral-red": "#FF6452",
+        "coral-red": "#9D4EDD",
         "slate-gray": "#6D6D6D",
         "pale-blue": "#F5F6FF",
         "white-400": "rgba(255, 255, 255, 0.80)",
@@ -30,7 +30,7 @@ export default {
       },
       backgroundImage: {
         hero: "url('assets/images/collection-background.svg')",
-        card: "url('assets/images/thumbnail-background.svg')",
+        card: "url('assets/images/new-thumbnail-background.svg')",
       },
       screens: {
         wide: "1440px",

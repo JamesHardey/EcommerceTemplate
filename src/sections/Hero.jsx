@@ -11,7 +11,7 @@ const Hero = () => {
     <div className="flex flex-col xl:flex-row justify-center min-h-screen gap-10 max-container">
       <div className="relative xl:w-2/5 flex flex-col justify-center items-start w-full max-xl:padding-x pt-28 capitalize">
         <p className="font-montserrat text-xl text-coral-red">
-          Our Summer Collection
+          The Shoe Vendor
         </p>
         <h1 className="font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82px] font-bold mt-10">
           <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">
@@ -23,8 +23,7 @@ const Hero = () => {
           </span>
         </h1>
         <p className="font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm">
-          discover stylish nike arrivals, quality comfort, and innovation for
-          you active life.
+          Discover top trending sneakers for different occassions.
         </p>
         <Button label="Shop Now" iconLink={arrowRight} />
         <div className="flex justify-start items-start max-sm:flex-wrap w-full mt-20 gap-16">
