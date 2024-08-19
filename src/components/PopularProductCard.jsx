@@ -14,7 +14,7 @@ const PopularProductCard = ({ imgURL, name, price }) => {
         {name}
       </h3>
       <p className="mt-2 font-semibold font-montserrat text-coral-red text-2xl leading-normal">
-        {price}
+        ${price}
       </p>
     </div>
   );
